@@ -7,8 +7,9 @@
 </p>
 
 <blockquote>
-  ✨ "A criatividade é a inteligencia se divertindo"  - Albert Einsten
+  ✨ "A criatividade é a inteligencia se divertindo"
  </blockquote>
+ <p align="right">- Albert Einsten</p>
 
 <p>Sou o principal programador Mobile na <strong><a href="https://www.casthood.com/">Casthood</a></strong>. Dedico meu tempo para implementar novas funcionalidade e aprimorar a performace e a disponibilidade do App.</p>
 
