@@ -1,4 +1,4 @@
-### <img style="opacity: 0.1;" src="https://www.joshwcomeau.com/_next/static/media/me-dark-31580c5df4f29ae39fca55964597000a.webp" height="120px" align="left" alt="Computador iuriCode"> Mateus Cazuza
+### <img style="opacity: 0.1;" src="https://www.joshwcomeau.com/assets/me-dark.webp" height="120px" align="left" alt="Computador iuriCode"> Mateus Cazuza
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="350px" align="right" alt="Computador iuriCode">
 
@@ -11,7 +11,7 @@
  </blockquote>
  <p align="right">- Albert Einsten</p>
 
-<p>Sou o principal programador Mobile na <strong><a href="https://www.casthood.com/">Casthood</a></strong>. Dedico meu tempo para implementar novas funcionalidade e aprimorar a performace e a disponibilidade do App.</p>
+<p>Sou o principal programador Mobile na <strong><a href="https://www.vitalk.com.br">Vitalk</a></strong>. Dedico meu tempo para implementar novas funcionalidade e aprimorar a performace e a disponibilidade do App.</p>
 
 <p align="left">
   🦄   <strong>Adoro quando desenvolvo com essas tecnologias.</strong>
@@ -33,7 +33,7 @@
 </p>
 
 ## 👨🏻‍💻 Sobre mim
-* <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brazil" /> Brasileiro
+* 🇧🇷 Brasileiro
 * <img width="16" src="https://about.gitlab.com/images/blogimages/GitLab-Dev.png" alt="" /> Adoro programar
 * <img width="16" src="https://cdn-images-1.medium.com/max/800/1*Mn_mGNUGxK6gCROym_z8Bg.png" alt="" /> Minha linguagem favorita é JavaScript
 * <img width="16" src="http://victorvhpg.github.io/minicurso-react.js/slides/img/logo.png" alt="" /> Meu framework de estimação é React e React Native
