@@ -11,7 +11,7 @@
  </blockquote>
  <p align="right">- Albert Einsten</p>
 
-<p>Sou o principal programador Mobile na <strong><a href="https://www.vitalk.com.br">Vitalk</a></strong>. Dedico meu tempo para implementar novas funcionalidade e aprimorar a performace e a disponibilidade do App.</p>
+<p>Atualmente estou tralhando com software enginer no Gympass</p>
 
 <p align="left">
   🦄   <strong>Adoro quando desenvolvo com essas tecnologias.</strong>
